@@ -1,4 +1,4 @@
-# 14 Moderasyon
+# V14 Moderasyon
 
 Gelişmiş **Discord Moderasyon + Kayıt + Eğlence** bot altyapısı.
 
