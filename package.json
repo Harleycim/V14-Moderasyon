@@ -1,0 +1,36 @@
+{
+  "name": "v14-moderation",
+  "version": "1.0.0",
+  "description": "Advanced Discord moderation/registration/entertainment bot base (discord.js v14 + MongoDB).",
+  "main": "src/index.js",
+  "type": "commonjs",
+  "author": "Harleywashere",
+  "license": "MIT",
+  "keywords": [
+    "discord",
+    "discord-bot",
+    "discord.js",
+    "moderation",
+    "mongodb",
+    "mongoose"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Harleycim/REPO.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Harleycim/REPO/issues"
+  },
+  "homepage": "https://github.com/Harleycim/REPO#readme",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node src/index.js"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "chalk": "^5.4.1",
+    "discord.js": "^14.22.1",
+    "mongoose": "^8.12.1",
+    "winston": "^3.17.0"
+  }
+}
